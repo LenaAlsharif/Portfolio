@@ -457,7 +457,7 @@ nav .right {
     padding: 0 !important;  
     margin: 0 !important; 
     box-shadow: none !important; 
-    transition: color 0.3s ease, background-color 0.3s ease;
+    transition: color 1.2s ease, background-color 0.3s ease;
 }
 
 
